@@ -2,7 +2,7 @@
 
 A vintage book you write your question into. Pick a topic of the body, write it on the front cover in ink, and the book opens, with pages assembled from real sources: Wikipedia, Wikimedia Commons and Europe PMC. No word in it is written, chosen or summarised by an AI.
 
-**[Open the book →](#)** *(add your GitHub Pages link here)*
+**[Open the book →](#)** *https://devanshi208.github.io/corpus/*
 
 ---
 
